@@ -31,7 +31,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado
 
 <div align="center">
   <p><strong>Minhas contribuições:</strong></p>
-  <img src="https://raw.githubusercontent.com/DKoder57/DKoder57/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DKoder57/DKoder57/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/DKoder57/Curriculum-Vitae/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
