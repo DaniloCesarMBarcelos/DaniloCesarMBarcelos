@@ -14,10 +14,17 @@ Esta é a conta que utilizo para **deploys** e **projetos pessoais**, onde compa
 
 ---
 
-## 📈 Progresso de Aprendizado (Usado usuário conta secundária para projetos pessoais)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DKoder57&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKoder57&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKoder57&theme=radical)  
+## 📈 Progresso de Aprendizado  
+*(Usado usuário conta secundária para projetos pessoais)*
+
+<!-- Estatísticas gerais -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DKoder57&show_icons=true&count_private=true&hide_border=true&theme=radical)
+
+<!-- Linguagens mais usadas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKoder57&layout=compact&langs_count=8&hide_border=true&theme=radical)
+
+<!-- Streak de commits -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKoder57&theme=radical&hide_border=true)
 
 ---
 
