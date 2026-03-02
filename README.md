@@ -14,10 +14,10 @@ Esta é a conta que utilizo para **deploys** e **projetos pessoais**, onde compa
 
 ---
 
-## 📈 Progresso de Aprendizado
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=radical)  
+## 📈 Progresso de Aprendizado (Usado usuário conta secundária para projetos pessoais)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DKoder57&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKoder57&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKoder57&theme=radical)  
 
 ---
 
