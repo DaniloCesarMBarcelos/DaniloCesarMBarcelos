@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software Iniciante | Em busca de novas oportunidades**
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado em aprender, criar soluções e aprimorar minhas habilidades. Esta conta (**DKoder57**) é o espaço dedicado aos meus estudos, projetos pessoais e *deploys*.
+Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado em aprender, criar soluções e aprimorar minhas habilidades. Esta conta é o espaço dedicado ao lado mais profissional.
 
 ---
 
