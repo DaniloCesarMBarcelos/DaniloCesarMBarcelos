@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Seu Nome]
 
-<!--
-**DaniloCesarMBarcelos/DaniloCesarMBarcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um programador iniciante em busca de oportunidades profissionais na área de desenvolvimento.  
+Esta é a conta que utilizo para **deploys** e **projetos pessoais**, onde compartilho minha evolução e práticas de programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+- **Linguagens:** Python, JavaScript, Java  
+- **Front-end:** HTML, CSS, React  
+- **Back-end:** Node.js, Express  
+- **Banco de Dados:** MySQL, MongoDB  
+- **Ferramentas:** Git, GitHub, VS Code  
+
+---
+
+## 📈 Progresso de Aprendizado
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=radical)  
+
+---
+
+## 📂 Projetos em destaque
+- [Portfólio]([link-do-seu-site](https://dkoder57.github.io/Portfolio-interativo/)) → Meu site pessoal com projetos e experiências.  
+<Em produção>
+
+
+---
+
+## 🎯 Objetivos
+- Conseguir minha primeira oportunidade como desenvolvedor.  
+- Continuar aprendendo novas tecnologias e boas práticas.  
+- Contribuir com projetos open source e colaborar com a comunidade.  
+
+---
+
+## 📫 Como me encontrar
+- 🌐 Portfólio: [seu-portfolio](https://dkoder57.github.io/Portfolio-interativo/)  
+- 💼 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/danilo-c%C3%A9sar-mangueira-barcelos-98594a228/)  
+- 📧 Email: [seu-email](mailto:danilocesarmbarcelos@gmail.com)  
+
+---
+
+⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!
