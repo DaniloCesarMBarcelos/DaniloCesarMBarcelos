@@ -19,8 +19,12 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado
 ## 📈 Meu Progresso e Estatísticas (DKoder57)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DKoder57&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKoder57&layout=compact&langs_count=10&hide_border=true&theme=radical" alt="Top Langs" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DKoder57&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKoder57&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DKoder57&theme=radical&hide_border=true" />
 </div>
 
 <br/>
