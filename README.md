@@ -10,7 +10,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,java,cs,mysql,mongodb,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,py,java,cs,mysql,mongodb,git,linux,github,vscode" />
   </a>
 </div>
 
@@ -24,16 +24,9 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DKoder57&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DKoder57&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKoder57&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <p><strong>Minhas contribuições:</strong></p>
   <img src="https://raw.githubusercontent.com/DKoder57/Curriculum-Vitae/output/github-contribution-grid-snake.svg" />
 </div>
@@ -42,8 +35,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado
 
 ## 📂 Projetos em Destaque
 
-- 💻 **[Portfólio Interativo](https://dkoder57.github.io/Portfolio-interativo/)** → Meu site pessoal onde apresento meus projetos, experiências e habilidades de forma dinâmica.
-- 🚧 *Outros projetos em desenvolvimento...*
+- 💻 **[Portfólio](https://dkoder57.github.io/Portfolio-interativo/)** → Meu portifólio onde apresento meus projetos, experiências e habilidades de forma dinâmica.
 
 ---
 
@@ -51,7 +43,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado
 
 - Conquistar minha primeira oportunidade profissional como desenvolvedor.
 - Aprofundar conhecimentos em arquitetura de software e boas práticas.
-- Contribuir ativamente com projetos *open source* e interagir com a comunidade.
+- Contribuir ativamente com projetos *open source* e agregar a comunidade.
 
 ---
 
