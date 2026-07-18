@@ -20,7 +20,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e focado
 
 <div align="center">
   <img height="170em" src="https://raw.githubusercontent.com/DKoder57/Curriculum-Vitae/output/stats.svg" />
-  <img height="170em" src="https://raw.githubusercontent.com/DKoder57/Curriculum-Vitae/output/top-langs.svg" />
+  <img height="170em" src="https://raw.githubusercontent.com/DKoder57/Curriculum-Vitae/main/profile/top-langs.svg" />
 </div>
 
 <div align="center">
